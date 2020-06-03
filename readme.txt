@@ -1,0 +1,1 @@
+this is my readme.txt file for the hngi7 internship
